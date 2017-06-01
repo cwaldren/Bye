@@ -18,3 +18,5 @@ Which?
 ````
 
 Type the number and hit enter to proceed.
+
+Binaries available [here](https://github.com/cwaldren/Bye/releases/download/v0.1.0/Bye.zip); if they don't work then compile from source. Requires elevated permissions to run (for uninstalling apps).
